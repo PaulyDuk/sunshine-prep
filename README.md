@@ -35,7 +35,7 @@ As a Site User, I want to navigate easily through the website so that I can find
 
 **Tasks**
 
-- Create a responsive navigation bar that includes links to Home, About, Services, and Contact pages.
+- Create a responsive navigation bar that includes links to Home, Resources and Contact pages.
 - Implement a collapsible menu for mobile devices.
 - Add a footer that includes social media links and copyright information.
 
