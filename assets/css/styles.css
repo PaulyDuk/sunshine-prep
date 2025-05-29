@@ -1,4 +1,5 @@
 /* Global Styles */
+
 * {
     font-family: 'Raleway', sans-serif;
 }
@@ -16,6 +17,7 @@ body {
 }
 
 /* Style the hero section */
+
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero.jpg');
     background-size: cover;
@@ -36,6 +38,7 @@ body {
 }
 
 /* Card Styling */
+
 .card {
     box-shadow: 0 4px 16px rgba(0,0,0,0.10), 0 1.5px 6px rgba(0,0,0,0.08);
 }
@@ -55,5 +58,12 @@ padding-bottom: 1rem;
 }
 
 #quotesCarousel {
-    padding-top: 1.5rem;
+    padding-top: 2rem;
+}
+
+/* Footer Styles */
+
+.social-links {
+    color:rgb(255, 0, 0);
+    font-size: 1.5rem;
 }
