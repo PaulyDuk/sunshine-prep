@@ -4,6 +4,8 @@
     font-family: 'Raleway', sans-serif;
 }
 
+/* General Styles */
+
 h2 {
     font-family: "Dancing Script", cursive;
     font-size: 3rem;
@@ -56,6 +58,8 @@ text-align: center;
 margin-bottom: 1rem;
 padding-bottom: 1rem;
 }
+
+/* Carousel Styles */
 
 #quotesCarousel {
     padding-top: 2rem;
