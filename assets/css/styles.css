@@ -3,8 +3,12 @@
     font-family: 'Raleway', sans-serif;
 }
 
+h2 {
+    font-family: "Dancing Script", cursive;
+    font-size: 3rem;
+}
+
 body {
-    font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -17,8 +21,18 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    text-align: justify;
     color: white;
     padding: 8rem 0;
+}
+
+.hero-part-1 {
+    font-family: 'dancing script', sans-serif;
+    font-size: 8rem;
+}
+
+.hero-part-2 {
+    font-size: 2rem;
 }
 
 /* Card Styling */
@@ -32,8 +46,14 @@ body {
 }
 
 .card-title {
+font-family: 'dancing script', sans-serif;
+font-size: 2em;
 border-bottom: 1px solid grey;
 text-align: center;
 margin-bottom: 1rem;
 padding-bottom: 1rem;
+}
+
+#quotesCarousel {
+    padding-top: 1.5rem;
 }
