@@ -1,3 +1,16 @@
+/* Global Styles */
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
 /* Style the hero section */
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero.jpg');
@@ -16,4 +29,12 @@
 .card-img-top {
     height: 618px;
     object-fit: cover;
+}
+
+.card-title {
+border-bottom: 1px solid grey;
+
+text-align: center;
+margin-bottom: 1rem;
+padding-bottom: 1rem;
 }
