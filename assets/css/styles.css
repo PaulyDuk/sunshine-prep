@@ -7,3 +7,13 @@
     color: white;
     padding: 8rem 0;
 }
+
+/* Card Styling */
+.card {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10), 0 1.5px 6px rgba(0,0,0,0.08);
+}
+
+.card-img-top {
+    height: 618px;
+    object-fit: cover;
+}
